@@ -30,29 +30,35 @@
 /*header*/
 
 .computer{
-
+margin-left: 30px;
 }
 h3{
-font-family: 'Abel';
+font-family: 'Open Sans Condensed', sans-serif;
 }
 
 span{color: red;
 
 }
 .main-box{
-	width: 1070px;
-	margin: o auto;
-}
-.development{
+	width: 1170px;
+	margin-left: 30px;
+	margin-top: 30px;
 
+}
+.box-wraper{
+margin-top: 20px;
 }
 .boxes{
 width: 570px;
-
 background: #F2F2F2;
+padding: 10px;
+margin-right: 10px;
 }
 .development-icons{
-width: 25px;
+	height: 130px;
+	vertical-align: top;
+	margin-right: 30px;
+	margin-top: 20px;
 
 }
 .title{
@@ -63,6 +69,9 @@ font-family: 'Open Sans Condensed', sans-serif;
 
 .firstp{
 font-family: 'Abel';
+width: 365px;
+vertical-align: top;
+margin-top: 20px;
 }
 /*footer*/
 .footer-box{
